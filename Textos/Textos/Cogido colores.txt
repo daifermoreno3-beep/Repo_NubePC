@@ -1,0 +1,75 @@
+nombre: Paleta de colores "EL Difer"
+estilo: Urbano, explosivo, humorístico
+colores:
+  - nombre: Rojo neón
+    hex: "#FF1B1B"
+    uso: Títulos impactantes, explosiones, alerta visual
+
+  - nombre: Amarillo intenso
+    hex: "#FFD600"
+    uso: Humor, expresiones exageradas, miniaturas llamativas
+
+  - nombre: Azul eléctrico
+    hex: "#00BFFF"
+    uso: Tutoriales, tecnología, contraste fresco
+
+  - nombre: Verde ácido
+    hex: "#39FF14"
+    uso: Roleplay urbano, caos visual, neón callejero
+
+  - nombre: Morado vibrante
+    hex: "#A020F0"
+    uso: Narrativa creativa, misterio, detalle elegante
+
+  - nombre: Negro profundo
+    hex: "#0D0D0D"
+    uso: Fondo dramático, contraste, estética GTA
+
+  - nombre: Blanco brillante
+    hex: "#FFFFFF"
+    uso: Texto secundario, contornos, resaltes en overlays
+
+
+
+
+
+
+nombre: Tipografías "EL Difer"
+estilo: Humor, acción urbana, estética GTA roleplay
+tipografías:
+  - nombre: Badaboom BB
+    estilo: Tipo cómic, divertida y explosiva
+    uso: Miniaturas humorísticas, escenas absurdas, frases virales
+
+  - nombre: Bebas Neue
+    estilo: Alta, elegante y profesional
+    uso: Títulos de tutoriales, estructura limpia en overlays
+
+  - nombre: Impact
+    estilo: Gruesa y directa
+    uso: Frases rápidas, reacciones, acción intensa
+
+  - nombre: Luckiest Guy
+    estilo: Juguetona y atrevida
+    uso: Shorts, retos, expresiones exageradas
+
+  - nombre: Obelix Pro
+    estilo: Caricaturesca y potente
+    uso: Escenas de caos, títulos llamativos y coloridos
+
+  - nombre: Bangers
+    estilo: Estilo cómic dinámico
+    uso: Acción urbana, explosiones, universo GTA
+
+combinaciones_sugeridas:
+  - principal: Badaboom BB
+    secundaria: Bebas Neue
+    uso: Miniatura de roleplay con toque narrativo
+
+  - principal: Impact
+    secundaria: Luckiest Guy
+    uso: Shorts de reacción o humor absurdo
+
+  - principal: Bangers
+    secundaria: Montserrat
+    uso: Branding moderno con energía urbana
