@@ -1,0 +1,136 @@
+bind 1 me Abre su kit médico, saca un par de guantes de látex y se los coloca. Acto seguido, procede a Buscar el pulso del Sujeto.
+
+bind 1 do ¿El Sujeto Aun Tendria Pulso?
+
+
+bind 2 me Cuidadosamente Revisa el cuerpo del paciente en busca de heridas o fracturas.
+
+bind 2 do ¿Presentaria heridas En el Cuerpo? ¿Nesesarias de Una Cirugia de Emergencia?
+
+bind 3 me Comienza a Tratar Las Heridas encontradas en el Cuerpo del Paciente, Administrando Diversos Medicamentos Al Mismo.
+
+bind 3 do ¿Se puede Apreciar mejoras Visibles en las Areas Recien Tratadas?
+
+bind 4 limpiaravisos
+
+bind 4 sura EPS SURA informa: Servicios Médicos Disponibles, Si Nesesita Ayuda Llame Sin Pensarlo. #SuraReformada
+
+bind 5 f Acudo Al Recien llamado Médico. Procedo Al Lugar De la llamada Segun Su Ubicacion.
+
+bind 5 sura EPS SURA En Camino a la Llamada de Emergencia, Unidad Medica En Camino, Sea Paciente. #SuraReformada
+
+bind 9 do Se Veria absorver todo el Impacto El Cituron del Vehiculo, Sin Afectar al Conductor.
+
+bind - sacarcamilla
+
+bind - me Abre las puertas traseras de la ambulancia y Saca La Camilla Medica, Desplazandose Hacia donde se Encuentra la Victima.
+
+bind - do Se veria Lista Para Subir al Sujeto
+
+bind , f Inicio servicio. Activo ubicación y enciendo el radio walkie-talkie para coordinar cualquier requerimiento.
+
+bind , ref
+
+bind , rtrabajo 1
+
+bind o f Tengo Una Persona En Condiciones Criticas, Requiere Una Cirugia De Emergencias ¿Algún aux.Quirúrgico o cirujano disponible Para Atender la Emergencia? Solicito confirmación de inmediato Para Trasladarlo al hospital.
+
+bind 6 me tras no Detectar Ningun Tipo de Pulso Le Realica RCP Para Reanimar a La Victima.
+
+bind 6 do Se Veria Colocar Sus manos en el pecho de la victima Y Hacerle Presion para Tratar de Reanimar Al Mismo.
+
+bind . stopaudio
+
+
+
+
+
+
+==============================================
+
+BIND FISCALIA 
+
+
+bind 1 me hagarra su arma y le quita el seguro sin hacer mucho ruido.
+
+bind 1 do se veria sosteniendo el arma con el dedo en el gatillo lista para ser usada.
+
+
+bind 0 me saca unos guantes de latex y se los coloca en ambas manos.
+
+bind 0 do se veria los guantes tapar las huellas dactilares y no dejar ni una sola marca.
+
+
+
+
+
+
+
+bind 1 me conecta el Vehiculo a la computadora para revisar el estado del mismo.
+
+bind 1 do se veria encontrar los detalles del motor, seguidamente arreglar los fallos.
+
+bind 1 me Por medio de la computadora restaura el veh y cambia las piezas malas por unas nuevas 
+
+bind 2 me desmonta las partes de chasis/ventanas/capo/bumpers.
+
+bind 2 do se veria como desmonta y monta unas nuevas piezas en el chasis general del veh 
+
+bind 2 me Coloca las piezas nuevas estas quedan perfectamente ajustadas.
+
+bind 3 me busca la pintura y enciende el compresor de pintura.
+
+bind 3 do se veria con ayuda de demas mecas colocarle una capa de pintura al chasis del vehiculo.
+
+bind 3 me apaga el compresor y espera que seque la pintura, esta quedaria perfecta y seca.
+
+bind 4 me Conecta el veh a la computadora del taller.
+
+bind 4 do se veria reprogramar el vehiculo desbloqueando Steach del motor, mejorando su velocidad y revoluciones.
+
+bind 4 me presiona una teclas y confirma la programacion, el vehiculo estaria listo y reprogramado.
+
+bind 5 me busca las piezas tuning que eligio el cliente.
+
+bind 5 do se veria con unas herramientas montar las piezas tuning al vehiculo.
+
+bind 5 me termina de ajustar todo y cierra la caja de herramientas.
+
+bind 6 me desmonta las luces originales del veh.
+
+bind 6 do se veria sacar las luces originales y colocar otras de una tonalidad distinta segun lo que eligio el cliente.
+
+bind 6 me conecta la luz nueva y la enciende, esta quedaria correctamente.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
